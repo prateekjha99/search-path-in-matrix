@@ -1,0 +1,17 @@
+
+div{
+    margin : 0;
+}
+
+.row{
+    margin : 0;
+    padding: 0;
+}
+.square{
+    display: inline-block;
+    height: 70px;
+    width: 70px;
+    background-color: yellow;
+    border : 1px solid black;
+    margin : 0;
+}
